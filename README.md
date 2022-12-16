@@ -1,5 +1,3 @@
-### Oh, hi Mark.
-
 <!--
 **ZakharTS/ZakharTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
